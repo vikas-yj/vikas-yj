@@ -13,7 +13,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vikas-jy&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge&labelColor=black&logo=github)
-![Followers](https://img.shields.io/github/followers/vikas-jy?logo=github&style=for-the-badge&color=0e75b6&labelColor=black)
+<!-- ![Followers](https://img.shields.io/github/followers/vikas-jy?logo=github&style=for-the-badge&color=0e75b6&labelColor=black)-->
 ![Repositories](https://img.shields.io/badge/Repositories-10+-blue?style=for-the-badge&logo=github&labelColor=black)
 <!--![Contributions](https://img.shields.io/github/commit-activity/m/vikas-jy?color=0e75b6&label=MONTHLY+COMMITS&logo=github&style=for-the-badge&labelColor=black)-->
 
